@@ -67,7 +67,7 @@
       "versionControlProvenance": [
         {
           "branch": "",
-          "repositoryUri": "",
+          "repositoryUri": "https://github.com/Secure-Platforms-Lab-W-M/MASC-Artifact/tree/main/mutated_apps/exhaustive/original_qpid/tools",
           "revisionId": ""
         }
       ]
